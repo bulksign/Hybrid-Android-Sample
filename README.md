@@ -1,4 +1,4 @@
-# Hybrid-UWP-Sample
+# Hybrid-Android-Sample
 Sample for integrating the Bulksign signing experience in a hybrid Android application (using Xamarin). The integration can be done in the following ways :
 
 - using the generic "bulksign://" protocol and the email link : the application needs to register the protocol and the sample app will redirect accordingly and open the signing document.
